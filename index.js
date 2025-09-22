@@ -21,7 +21,7 @@ module.exports = {
   },
   ">=0.80 <0.82": {
     core: { name: "react-native", version: "^0.81.0" },
-    react: { name: "react", version: "^18.3.1" },
+    react: { name: "react", version: "^19.1.0" },
     reanimated: { name: "react-native-reanimated", version: "^3.15.0" },
     gestureHandler: {
       name: "react-native-gesture-handler",
